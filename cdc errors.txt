@@ -1,0 +1,5 @@
+Job 'cdc.VBSPASDatamartRPT_capture' started successfully.
+Job 'cdc.VBSPASDatamartRPT_cleanup' started successfully.
+Msg 22926, Level 16, State 1, Procedure sp_cdc_verify_capture_instance, Line 36
+Could not create a capture instance because the capture instance name 'dbo_POLICY' already exists in the current database. Specify an explicit unique name for the parameter @capture_instance.
+CDC enabled successfully on VBSPasDatamartRpt tables!!!!

@@ -1,0 +1,8 @@
+/* CREATE A NEW ROLE */
+CREATE ROLE db_executor
+
+/* GRANT EXECUTE TO THE ROLE */
+GRANT EXECUTE TO db_executor
+
+GO
+GRANT EXECUTE TO [TMKMHC\TMKVBSAllSysAnalystDeveloper]

@@ -1,0 +1,8 @@
+TRUSTMARKPORTAL
+
+Please add Marissa Gutierrez (G76) to the TmpUserDepartment table.
+
+Database – LKF_PSQL05B
+Instance Name – PSQL05B/PSQL05B
+Department - P342
+
